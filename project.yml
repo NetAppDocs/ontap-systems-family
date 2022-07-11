@@ -17,10 +17,12 @@ product-family:
         class: active
       - title: Get started
         tags: tag_get_started
-      - title: Data storage
-        tags: tag_data_storage
+      - title: System hardware
+        tags: tag_storage_hardware
+      - title: System upgrade
+        tags: tag_storage_upgrade
       - title: Storage management
-        tags: tag_storage_management, tag_SANtricity
+        tags: tag_storage_management
 
   tiles:
     - title: "Learn about the ONTAP Systems family"
@@ -33,28 +35,28 @@ product-family:
       icon: ./media/system_line.png
       url: https://docs.netapp.com/us-en/e-series/index.html
       summary: "Use ONTAP hardware systems to support your application workloads with high performance all-flash storage and enterprise-grade reliability across your hybrid cloud."
-      tags: all, tag_data_storage
+      tags: all, tag_storage_hardware, tag_storage_management
 
     - title: "ONTAP Systems Upgrade"
       icon: ./media/api.png
       url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
       summary: "Learn how to upgrade your AFF and FAS storage systems."
-      tags: all, tag_storage_management, tag_SANtricity
+      tags: all, tag_storage_hardware, tag_storage_upgrade
 
     - title: "ONTAP Switches"
       icon: ./media/config_line.png
       url: https://docs.netapp.com/us-en/ontap-systems-switches/index.html
       summary: "Learn how to install, upgrade and maintain your cluster and storage switches."
-      tags: all, tag_storage_management, tag_SANtricity
+      tags: all, tag_storage_hardware, tag_storage_upgrade
 
     - title: "ONTAP MetroCluster"
       icon: ./media/api.png
       url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
       summary: "Use Metrocluster to deliver continuous high availability and disaster recovery for your storage systems by combining array-based clustering with synchronous replication."
-      tags: all, tag_storage_management, tag_SANtricity
+      tags: all, tag_storage_management, tag_storage_upgrade
 
     - title: "ONTAP Software Family"
       icon: ./media/cli_line.png
       url: https://docs.netapp.com/us-en/ontap-family/index.html
       summary: "Use the ONTAP Software family page to find information on how to set up ONTAP, provision storage for clients, and protect and manage your data with System Manager or the CLI."
-      tags: all, tag_storage_management, tag_SANtricity
+      tags: all, tag_storage_management
