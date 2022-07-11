@@ -27,7 +27,7 @@ Delivers high-end performance, but in a compact form that's especially suited fo
 media/entertainment workloads. https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf[Read the Datasheet^].
 
 === AFF A900
-Delivers advanced reliability, availability, and serviceability (RAS) that keep your critical data always available. It also provides all the core data management and data protection capabilities for your enterprise applications https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf[Read the Datasheet^].
+Designed for mission-critical enterprise applications that need high-end NVMe flash storage to keep data available and secure at all times. https://www.netapp.com/blog/new-netapp-aff-a900[Read the A900 Blog^].
 
 == FAS systems
 
