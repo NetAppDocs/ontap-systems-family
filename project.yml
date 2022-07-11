@@ -31,10 +31,10 @@ product-family:
       summary: "Learn about the ONTAP Systems family of storage systems."
       tags: all, tag_get_started
 
-    - title: "ONTAP Systems"
+    - title: "ONTAP AFF and FAS Systems"
       icon: ./media/system_line.png
       url: https://docs.netapp.com/us-en/e-series/index.html
-      summary: "Use ONTAP hardware systems to support your application workloads with high performance all-flash storage and enterprise-grade reliability across your hybrid cloud."
+      summary: "Use ONTAP AFF and FAS systems to support your application workloads with high performance all-flash storage and enterprise-grade reliability across your hybrid cloud."
       tags: all, tag_storage_hardware, tag_storage_management
 
     - title: "ONTAP Systems Upgrade"
