@@ -9,20 +9,23 @@ summary: "The NetApp E-Series product family offers storage and application data
 :icons: font
 :imagesdir: ./media/
 
-The NetApp E-Series storage family offers flexible and cost-effective backup and recovery to the cloud, and is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast block storage with enterprise-grade reliability.
+The NetApp ONTAP storage family offers integrated data protection and cyber resilience, and seamless backup and recovery to the cloud, and is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast all-flash storage with enterprise-grade reliability.
 
-== AFF platforms
-E-Series storage systems use application-aware, data management tools that can handle multiple drive types in either a 2U or 4U form factor. You can connect the storage system to a SAN from multiple interface types and to a variety of host operating systems.
+== AFF systems
+ONTAP AFF storage systems use .
 
-E-Series storage systems include the following platform models.
+ONTAP AFF storage systems include the following platform models.
 
-=== EF600 and EF300
+=== AFF A250
 Designed specifically for workloads that demand the highest levels of performance such as big data analytics and databases. https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf[Read the EF-Series Datasheet^].
 
-=== E5700
+=== AFF A400
 Built for high-performance and data-intensive bandwidth applications with enterprise-grade reliability. https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf[Read the E5700 Datasheet^].
 
-=== E2800
+=== AFF A800
+Optimized for small enterprises and remote offices that require mixed-workload performance and reliability for dedicated apps. https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf[Read the E2800 Datasheet^].
+
+=== AFF A900
 Optimized for small enterprises and remote offices that require mixed-workload performance and reliability for dedicated apps. https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf[Read the E2800 Datasheet^].
 
 == SANtricity software

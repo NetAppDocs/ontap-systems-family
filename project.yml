@@ -56,5 +56,5 @@ product-family:
     - title: "ONTAP Software Family"
       icon: ./media/cli_line.png
       url: https://docs.netapp.com/us-en/ontap-family/index.html
-      summary: "Use the ONTAP Software Family page to find information on how to set up or upgrade ONTAP, provision storage for clients, and protect and manage your data with System Manager or the ONTAP CLI."
+      summary: "Use the ONTAP Software family page to find information on how to set up ONTAP, provision storage for clients, and protect and manage your data with System Manager or the CLI."
       tags: all, tag_storage_management, tag_SANtricity
