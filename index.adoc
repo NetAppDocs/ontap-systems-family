@@ -1,0 +1,13 @@
+---
+layout: product-family
+permalink: index.html
+lead: The NetApp ONTAP Systems product family offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability.
+summary: "The NetApp ONTAP Systems product family offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability."
+---
+
+= ONTAP Systems documentation
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
