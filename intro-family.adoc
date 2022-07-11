@@ -17,7 +17,7 @@ ONTAP AFF storage systems use .
 ONTAP AFF storage systems include the following platform models.
 
 === AFF A250
-Designed specifically for workloads that demand the highest levels of performance such as big data analytics and databases. https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf[Read the EF-Series Datasheet^].
+Designed to meet the data management needs for mid-size businesses or remote offices of a large enterprise. https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf[Read the EF-Series Datasheet^].
 
 === AFF A400
 Built for high-performance and data-intensive bandwidth applications with enterprise-grade reliability. https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf[Read the E5700 Datasheet^].
