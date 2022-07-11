@@ -35,16 +35,16 @@ product-family:
       summary: "Use ONTAP hardware systems to support your application workloads with high performance all-flash storage and enterprise-grade reliability across your hybrid cloud."
       tags: all, tag_data_storage
 
+    - title: "ONTAP Systems Upgrade"
+      icon: ./media/api.png
+      url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
+      summary: "Learn how to upgrade your AFF and FAS storage systems."
+      tags: all, tag_storage_management, tag_SANtricity
+
     - title: "ONTAP Switches"
       icon: ./media/config_line.png
       url: https://docs.netapp.com/us-en/ontap-systems-switches/index.html
       summary: "Learn how to install, upgrade and maintain your cluster and storage switches."
-      tags: all, tag_storage_management, tag_SANtricity
-
-    - title: "ONTAP Hardware Upgrade"
-      icon: ./media/api.png
-      url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
-      summary: "Learn how to upgrade your AFF and FAS storage systems."
       tags: all, tag_storage_management, tag_SANtricity
 
     - title: "ONTAP MetroCluster"
