@@ -9,57 +9,36 @@ summary: "The NetApp E-Series product family offers storage and application data
 :icons: font
 :imagesdir: ./media/
 
-The NetApp ONTAP storage family offers integrated data protection and cyber resilience, and seamless backup and recovery to the cloud, and is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast all-flash storage with enterprise-grade reliability.
+The NetApp ONTAP storage family offers integrated data protection and seamless backup and recovery to the cloud, and is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast all-flash storage with enterprise-grade reliability.
 
-== AFF systems
+== AFF systems Family
 ONTAP AFF storage systems use .
 
 ONTAP AFF storage systems include the following platform models.
 
-=== AFF A250
-Designed to meet the data management needs for mid-size businesses or remote offices of a large enterprise. https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf[Read the EF-Series Datasheet^].
+=== Entry-level systems: AFF C190, AFF A250, FAS2720, FAS2750
+Designed to meet the data management needs for mid-size businesses or remote offices of a large enterprise. https://www.netapp.com/pdf.html?item=/media/63961-DS-4174-Entry-level-systems-overview.pdf[Read the AFF Datasheet^].
 
 === AFF A400
-Built for high-performance and data-intensive bandwidth applications with enterprise-grade reliability. https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf[Read the E5700 Datasheet^].
+End-to-end NVMe all-flash system that offers extremely low latency at a mid-range price point for enterprise applications, data analytics, and artificial intelligence workloads. https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf[Read the E5700 Datasheet^].
 
 === AFF A800
-Optimized for small enterprises and remote offices that require mixed-workload performance and reliability for dedicated apps. https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf[Read the E2800 Datasheet^].
+Delivers high-end performance, but in a compact form that's especially suited for EDA and
+media/entertainment workloads. https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf[Read the Datasheet^].
 
 === AFF A900
-Optimized for small enterprises and remote offices that require mixed-workload performance and reliability for dedicated apps. https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf[Read the E2800 Datasheet^].
+Delivers advanced reliability, availability, and serviceability (RAS) that keep your critical data always available. It also provides all the core data management and data protection capabilities for your enterprise applications https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf[Read the Datasheet^].
 
-== SANtricity software
+== FAS systems
 
-SANtricity software provides both the System Manager and Unified Manager web-based interfaces used for viewing, provisioning, and managing storage systems in your network. https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf[Read the SANtricity software Datasheet^].
+NetApp FAS hybrid flash arrays are simple, smart, trusted storage shared NAS and SAN environments that provide rich data management and easy cloud integration. Powered by ONTAP data management software, they are ideal for back-up and retention, consolidation of general business applications, and distributed content. https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^].
 
-=== SANtricity System Manager
+=== FAS8700
+Optimized for high capacity and performance to consolidate multiple business workloads.
 
-System Manager is web-based management software embedded on each controller. To access the user interface, point a browser to the controller’s IP address. A setup wizard helps you get started with system configuration.
-
-* Intuitive workflow wizards and context-sensitive help streamline configuration tasks.
-
-* The software suggests configuration candidates that take advantage of hardware capabilities such as drawer loss protection on dense enclosures, and smart management of wear life and performance on SSDs.
-
-* Sophisticated performance monitoring lets you view information from the system level down to individual drives or export the performance data for further analysis.
-
-* Tuning activities such as managing the SSD cache or data cache are all online. When a repair becomes necessary, the SANtricity Recovery Guru provides step-by-step instructions.
-
-=== SANtricity Unified Manager
-Unified Manager is web-based software used for managing your entire domain. From a central view, you can see status for all newer E-Series and EF-Series arrays, such as the E2800, EF280, EF300, E5700, EF570, and EF600. You can also perform batch operations on selected storage arrays.
-
-* From a single window, you can view status, organize arrays into groups, update the SANtricity OS for multiple arrays, and launch the on-box SANtricity System Manager for each array.
-
-* You can quickly configure alerts and other settings to multiple arrays with a single operation.
-
-* SANtricity Unified Manager is installed on a Linux or Windows management server and runs in a browser.
-
-=== SANtricity Web Services Proxy
-The Web Services Proxy is a full-function RESTful API server for orchestration and automation needs that can manage hundreds of new and legacy E-Series arrays. The proxy is installed separately on a Windows or Linux server. Web Services includes API documentation that allows you to directly interact with the REST API.
-
-== CLI
-The command line interface (CLI) is a software application that provides a way to configure and monitor storage arrays.
-
-Using the CLI, you can run commands from an operating system prompt, such as the DOS C: prompt, a Linux operating system path, or a Solaris operating system path.
+=== FAS8300
+Next-generation midrange system designed for a wide range of deployments that need a
+balance of capacity and performance.
 
 == For more information
 
