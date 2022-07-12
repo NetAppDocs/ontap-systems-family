@@ -14,8 +14,6 @@ The NetApp ONTAP storage family offers integrated data protection and seamless b
 == AFF systems Family
 ONTAP AFF storage systems use .
 
-ONTAP AFF storage systems include the following platform models.
-
 === Entry-level systems: AFF C190, AFF A250, FAS2720, FAS2750
 Designed to meet the data management needs for mid-size businesses or remote offices of a large enterprise. https://www.netapp.com/pdf.html?item=/media/63961-DS-4174-Entry-level-systems-overview.pdf[Read the AFF Datasheet^].
 
