@@ -19,10 +19,15 @@ The three types of FAS systems are classified based on the type of storage drive
 With the new system, you can provision storage for applications in less than 10 minutes.
 meet the demands for fast, secure, and continuous data access.
 
+<<<<<<< HEAD
 The NetApp ONTAP storage family offers integrated data protection and seamless backup and recovery to the cloud. It is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast all-flash storage with enterprise-grade reliability.
 
 == AFF all-flash storage systems
 The AFF systems is a robust scale-out platform built for virtualized environments and can be deployed as an independent system or a high-performance tier in a NetApp ONTAP configuration.
+=======
+=== Entry-level systems: AFF C190, AFF A250, FAS2720, FAS2750
+Designed to meet the data management needs for mid-size businesses or remote offices of a large enterprise. https://www.netapp.com/pdf.html?item=/media/63961-DS-4174-Entry-level-systems-overview.pdf[Read the AFF Datasheet^].
+>>>>>>> d255bf121f6cbc95ac319e3cd7221f59a7d8b6a0
 
 === Key features
 Some key features of AFF systems include the following:
