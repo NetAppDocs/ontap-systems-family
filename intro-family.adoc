@@ -4,39 +4,69 @@ keywords: introduction, what E-Series is, e-series, SANtricity, CLI, system mana
 summary: "The NetApp E-Series product family offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and fast block storage with enterprise-grade reliability."
 ---
 
-= Intro to the ONTAP family of storage systems
+= Intro to the ONTAP AFF and FAS family of storage systems
 :hardbreaks:
 :icons: font
 :imagesdir: ./media/
 
-The NetApp ONTAP storage family offers integrated data protection and seamless backup and recovery to the cloud, and is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast all-flash storage with enterprise-grade reliability.
+The NetApp AFF and FAS product families offer a broad portfolio of storage that cover small, midrange and enterprise class systems. A NetApp computer storage product that runs
+ONTAP data management software.
+The three types of FAS systems are classified based on the type of storage drive or drives that they use and their ONTAP “personality”:
+• Hybrid: HDD and SSD
+• All Flash FAS (AFF): only SSD
+• AFF All SAN Array (ASA): only SSD and only SAN protocols
 
-== AFF systems Family
-ONTAP AFF storage systems use .
+With the new system, you can provision storage for applications in less than 10 minutes.
+meet the demands for fast, secure, and continuous data access.
 
-=== Entry-level systems: AFF C190, AFF A250, FAS2720, FAS2750
-Designed to meet the data management needs for mid-size businesses or remote offices of a large enterprise. https://www.netapp.com/pdf.html?item=/media/63961-DS-4174-Entry-level-systems-overview.pdf[Read the AFF Datasheet^].
+The NetApp ONTAP storage family offers integrated data protection and seamless backup and recovery to the cloud. It is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast all-flash storage with enterprise-grade reliability.
 
-=== AFF A400
-End-to-end NVMe all-flash system that offers extremely low latency at a mid-range price point for enterprise applications, data analytics, and artificial intelligence workloads. https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf[Read the E5700 Datasheet^].
+== AFF all-flash storage systems
+The AFF systems is a robust scale-out platform built for virtualized environments and can be deployed as an independent system or a high-performance tier in a NetApp ONTAP configuration.
 
-=== AFF A800
-Delivers high-end performance, but in a compact form that's especially suited for EDA and
-media/entertainment workloads. https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf[Read the Datasheet^].
+=== Key features
+Some key features of AFF systems include the following:
 
-=== AFF A900
-Designed for mission-critical enterprise applications that need high-end NVMe flash storage to keep data available and secure at all times. https://www.netapp.com/blog/new-netapp-aff-a900[Read the A900 Blog^].
+* Cloning and Snapshot copies combined with native space efficiency can lower storage expenses.
+* Near-zero performance impact for snapshot copy creation, cloning, and replication.
+* Application-consistent Snapshot copies simplify app management.
+* Synchronous replication using NetApp MetroCluster software.
+* Support for at-rest data encryption and an onboard key manager to help secure data through easier key management.
+* NetApp SnapMirror replication software reduces overall system costs by replicating to any type of FAS/AFF system, whether it is all-flash, hybrid, or HDD, on premises or in the cloud.
 
-== FAS systems
+https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf[Read the AFF Datasheet^].
+
+=== Key Benefits
+
+There are many benefits to implementing NetApp AFF. Some of the biggest advantages the solution offers include:
+* Speed up your critical applications with lightningfast end-to-end NVMe enterprise all-flash array.
+* Run artificial intelligence and machine learning applications with lowest latency.
+* Support twice as many workloads and cut application response time in half with a
+modern NVMe-based SAN infrastructure.
+
+* Change the economics of your data center with flash - you'll consume 11 times less electricity, require 11 times less rack space, and spend 67 percent less on support compared to a data center using HDDs.
+* Manage data with a single piece of software for SAN and NAS settings, including flash, disk, and the cloud.
+Within 10 minutes, you can provision storage and serve data.
+* Inline data reduction technology can reduce SSD storage by 5 to 10 times on average.
+* Protect your data using the system's best-in-class integrated data protection suite.
+* Scale out to 24 nodes, 367PB of effective capacity, and 4 million IOPS without causing disruption.
+* Accelerate applications with up to 12 times more IOPS and 20 times faster response thanks to NetApp ONTAP FlashEssentials.
+
+== FAS hybrid-flash systems
+
+NetApp FAS Storage Arrays provides customers with a balance of performance and capacity.
+
+Optimized for easy deployment and operations, NetApp FAS systems deliver the flexibility to handle your future growth and cloud integration. With their highly available hardware and powerful software, FAS systems cost-effectively deliver the data protection, security, and scalability to safeguard your data and help your team be more efficient.
 
 NetApp FAS hybrid flash arrays are simple, smart, trusted storage shared NAS and SAN environments that provide rich data management and easy cloud integration. Powered by ONTAP data management software, they are ideal for back-up and retention, consolidation of general business applications, and distributed content. https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^].
 
-=== FAS8700
-Optimized for high capacity and performance to consolidate multiple business workloads.
+== Switches
 
-=== FAS8300
-Next-generation midrange system designed for a wide range of deployments that need a
-balance of capacity and performance.
+== Upgrade
+
+== MetroCluster
+
+== ONTAP Software
 
 == For more information
 
