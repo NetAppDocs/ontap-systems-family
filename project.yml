@@ -7,7 +7,7 @@ settings:
     pdf_enabled: true
 sidebar:
   entries:
-    - title: ONTAP AFF and FAS Systems product family documentation
+    - title: ONTAP Systems product family documentation
       url: /index.html
 product-family:
   search: "clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod"
@@ -31,7 +31,7 @@ product-family:
       summary: "Learn about the ONTAP Systems family of storage systems."
       tags: all, tag_get_started
 
-    - title: "ONTAP AFF and FAS Systems"
+    - title: "ONTAP Systems (AFF and FAS)"
       icon: ./media/system_line.png
       url: https://docs.netapp.com/us-en/e-series/index.html
       summary: "Use ONTAP AFF and FAS systems to support your application workloads with high performance all-flash storage and enterprise-grade reliability across your hybrid cloud."
