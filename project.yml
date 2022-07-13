@@ -34,7 +34,7 @@ product-family:
     - title: "ONTAP Systems (AFF and FAS)"
       icon: ./media/system_line.png
       url: https://docs.netapp.com/us-en/e-series/index.html
-      summary: "Use ONTAP AFF and FAS systems to support your application workloads with high performance all-flash storage and enterprise-grade reliability across your hybrid cloud."
+      summary: "Use ONTAP AFF and FAS systems to support your application workloads with high performance storage and enterprise-grade reliability across your hybrid cloud."
       tags: all, tag_storage_hardware, tag_storage_management
 
     - title: "ONTAP Systems Upgrade"
@@ -43,7 +43,7 @@ product-family:
       summary: "Learn how to upgrade your AFF and FAS storage systems."
       tags: all, tag_storage_hardware, tag_storage_upgrade
 
-    - title: "ONTAP Switches"
+    - title: "Cluster and Storage Switches"
       icon: ./media/config_line.png
       url: https://docs.netapp.com/us-en/ontap-systems-switches/index.html
       summary: "Learn how to install, upgrade and maintain your cluster and storage switches."

@@ -1,80 +1,63 @@
 ---
 permalink: intro-family.html
-keywords: introduction, what E-Series is, e-series, SANtricity, CLI, system manager, unified manager
-summary: "The NetApp E-Series product family offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and fast block storage with enterprise-grade reliability."
+keywords: introduction, what is ONTAP systems, AFF, FAS, all-flash, ONTAP
+summary: "The NetApp ONTAP family of storage systems is designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access."
 ---
 
-= Intro to the ONTAP AFF and FAS family of storage systems
+= Intro to the ONTAP family of storage systems
 :hardbreaks:
 :icons: font
 :imagesdir: ./media/
 
-The NetApp AFF and FAS product families offer a broad portfolio of storage that cover small, midrange and enterprise class systems. A NetApp computer storage product that runs
-ONTAP data management software.
-The three types of FAS systems are classified based on the type of storage drive or drives that they use and their ONTAP “personality”:
-• Hybrid: HDD and SSD
-• All Flash FAS (AFF): only SSD
-• AFF All SAN Array (ASA): only SSD and only SAN protocols
+The NetApp ONTAP family of storage systems is designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access.
 
-With the new system, you can provision storage for applications in less than 10 minutes.
-meet the demands for fast, secure, and continuous data access.
+ONTAP Systems are available in all-flash (AFF) and hybrid flash and HDD-only (FAS) configurations, giving you the option to choose the storage media mix that best meets your performance, capacity, and cost requirements.
 
-<<<<<<< HEAD
-The NetApp ONTAP storage family offers integrated data protection and seamless backup and recovery to the cloud. It is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast all-flash storage with enterprise-grade reliability.
+You can cluster different combinations of FAS and AFF models so you can run mixed workloads on the same storage system and build out your environment by adding new generations of storage with the latest technologies.
 
-== AFF all-flash storage systems
-The AFF systems is a robust scale-out platform built for virtualized environments and can be deployed as an independent system or a high-performance tier in a NetApp ONTAP configuration.
-=======
-=== Entry-level systems: AFF C190, AFF A250, FAS2720, FAS2750
-Designed to meet the data management needs for mid-size businesses or remote offices of a large enterprise. https://www.netapp.com/pdf.html?item=/media/63961-DS-4174-Entry-level-systems-overview.pdf[Read the AFF Datasheet^].
->>>>>>> d255bf121f6cbc95ac319e3cd7221f59a7d8b6a0
+== All-Flash FAS (AFF) systems
 
-=== Key features
-Some key features of AFF systems include the following:
+The NVMe-based AFF systems are a robust scale-out platform built for virtualized environments and can be deployed as an independent system or a high-performance tier in a NetApp ONTAP configuration.
 
-* Cloning and Snapshot copies combined with native space efficiency can lower storage expenses.
-* Near-zero performance impact for snapshot copy creation, cloning, and replication.
-* Application-consistent Snapshot copies simplify app management.
-* Synchronous replication using NetApp MetroCluster software.
-* Support for at-rest data encryption and an onboard key manager to help secure data through easier key management.
-* NetApp SnapMirror replication software reduces overall system costs by replicating to any type of FAS/AFF system, whether it is all-flash, hybrid, or HDD, on premises or in the cloud.
+=== All-flash FAS systems enable you to
+
+* Integrate different controllers, SSD sizes, and new technologies and private or public cloud into your infrastructure nondisruptively.
+* Drive mission-critical SAN workloads with symmetric active-active host connectivity for continuous availability and instant failover.
+* Consolidate workloads to deliver up to 14.4 million IOPS at 1ms latency in a cluster with a unified scale-out architecture.
+* Manage scalable NAS containers of up to 20PB and 400 billion files with a single namespace.
+
+Supporting a range of workloads, especially VDI and databases that require high performance, low latency and reliability, the all-flash FAS configurations are the ideal choice for business-critical applications.
 
 https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf[Read the AFF Datasheet^].
 
-=== Key Benefits
-
-There are many benefits to implementing NetApp AFF. Some of the biggest advantages the solution offers include:
-* Speed up your critical applications with lightningfast end-to-end NVMe enterprise all-flash array.
-* Run artificial intelligence and machine learning applications with lowest latency.
-* Support twice as many workloads and cut application response time in half with a
-modern NVMe-based SAN infrastructure.
-
-* Change the economics of your data center with flash - you'll consume 11 times less electricity, require 11 times less rack space, and spend 67 percent less on support compared to a data center using HDDs.
-* Manage data with a single piece of software for SAN and NAS settings, including flash, disk, and the cloud.
-Within 10 minutes, you can provision storage and serve data.
-* Inline data reduction technology can reduce SSD storage by 5 to 10 times on average.
-* Protect your data using the system's best-in-class integrated data protection suite.
-* Scale out to 24 nodes, 367PB of effective capacity, and 4 million IOPS without causing disruption.
-* Accelerate applications with up to 12 times more IOPS and 20 times faster response thanks to NetApp ONTAP FlashEssentials.
-
 == FAS hybrid-flash systems
 
-NetApp FAS Storage Arrays provides customers with a balance of performance and capacity.
+The FAS hybrid-flash systems are a hardware platform created for shared, consolidated SAN and NAS environments that require rich data management and easy cloud connection.
 
-Optimized for easy deployment and operations, NetApp FAS systems deliver the flexibility to handle your future growth and cloud integration. With their highly available hardware and powerful software, FAS systems cost-effectively deliver the data protection, security, and scalability to safeguard your data and help your team be more efficient.
+With its highly available hardware, FAS hybrid-flash systems cost-effectively meet workload demands by combining the ideal mix of flash and traditional spinning drives. It is ideal for back-up and retention, consolidation of general business applications, and distributed content.
 
-NetApp FAS hybrid flash arrays are simple, smart, trusted storage shared NAS and SAN environments that provide rich data management and easy cloud integration. Powered by ONTAP data management software, they are ideal for back-up and retention, consolidation of general business applications, and distributed content. https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^].
+=== All-flash arrays enable you to
 
-== Switches
+* Go from initial power-on to serving data in less than 10 minutes with simple application provisioning.
+* Reduce costs and minimize your storage footprint with proven efficiency technologies such as inline deduplication, compression, compaction, and thin provisioning.
+* Eliminate silos by supporting both NAS and SAN workloads on one unified system
 
-== Upgrade
+Optimized for easy deployment and operations, FAS hybrid-flash systems provide a balance of performance and capacity required to support critical workloads such as AI and media streaming, along with a variety of deployment models.
+
+https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^].
 
 == MetroCluster
+NetApp MetroCluster software provides a robust infrastructure that combines array-based clustering with synchronous mirroring to deliver continuous availability and zero data loss to protect your entire system.
 
 == ONTAP Software
+ONTAP data management software is a clustered storage software product that powers the AFF and FAS systems.
+
+With a global namespace that supports up to 24 AFF and FAS nodes of all types, ONTAP software supports unified storage (block and file), enabling significant workload consolidation that you can manage using the ONTAP System Manager GUI.
+
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf[Read the ONTAP Datasheet^].
 
 == For more information
 
-* https://docs.netapp.com/us-en/e-series/index.html[E-Series system docs^]
-* https://docs.netapp.com/us-en/e-series-santricity/index.html[SANtricity software docs^]
-* https://docs.netapp.com/us-en/e-series-cli/index.html[SANtricity CLI docs^]
+* https://docs.netapp.com/us-en/ontap-systems/index.html[ONTAP Systems docs^]
+* https://docs.netapp.com/us-en/ontap-metrocluster/index.html[MetroCluster docs^]
+* https://docs.netapp.com/us-en/ontap/index.html[ONTAP software docs^]
