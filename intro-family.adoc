@@ -49,6 +49,8 @@ https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datas
 == MetroCluster
 NetApp MetroCluster software provides a robust infrastructure that combines array-based clustering with synchronous mirroring to deliver continuous availability and zero data loss to protect your entire system.
 
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf[Read more about MetroCluster^]
+
 == ONTAP Software
 ONTAP data management software is a clustered storage software product that powers the AFF and FAS systems.
 
