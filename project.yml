@@ -7,7 +7,7 @@ settings:
     pdf_enabled: true
 sidebar:
   entries:
-    - title: ONTAP Systems product family documentation
+    - title: ONTAP Systems family documentation
       url: /index.html
 product-family:
   search: "clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod"
