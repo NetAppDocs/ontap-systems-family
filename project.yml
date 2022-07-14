@@ -33,7 +33,7 @@ product-family:
 
     - title: "ONTAP Systems (AFF and FAS)"
       icon: ./media/system_line.png
-      url: https://docs.netapp.com/us-en/e-series/index.html
+      url: https://docs.netapp.com/us-en/ontap-systems/index.html
       summary: "Use ONTAP AFF and FAS systems to support your application workloads with high performance storage and enterprise-grade reliability across your hybrid cloud."
       tags: all, tag_storage_hardware, tag_storage_management
 
@@ -51,7 +51,7 @@ product-family:
 
     - title: "ONTAP MetroCluster"
       icon: ./media/api.png
-      url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
+      url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
       summary: "Use Metrocluster to deliver continuous high availability and disaster recovery for your storage systems by combining array-based clustering with synchronous replication."
       tags: all, tag_storage_management, tag_storage_upgrade
 
