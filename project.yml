@@ -55,8 +55,8 @@ product-family:
       summary: "Learn how to install and upgrade or expand your MetroCluster configurations and perform disaster recovery."
       tags: all, tag_storage_management, tag_storage_upgrade
 
-    - title: "ONTAP Software Family"
+    - title: "ONTAP Family"
       icon: ./media/cli_line.png
       url: https://docs.netapp.com/us-en/ontap-family/index.html
-      summary: "Use the ONTAP Software family page to find information on how to set up ONTAP, provision storage for clients, and protect and manage your data with System Manager or the CLI."
+      summary: "Use the ONTAP family page to find information on how to set up ONTAP, provision storage for clients, and protect and manage your data with System Manager or the CLI."
       tags: all, tag_storage_management
