@@ -36,15 +36,15 @@ The FAS hybrid-flash systems are a hardware platform created for shared, consoli
 
 With its highly available hardware, FAS hybrid-flash systems cost-effectively meet workload demands by combining the ideal mix of flash and traditional spinning drives. It is ideal for back-up and retention, consolidation of general business applications, and distributed content.
 
-=== All-flash arrays enable you to
-
-* Go from initial power-on to serving data in less than 10 minutes with simple application provisioning.
-* Reduce costs and minimize your storage footprint with proven efficiency technologies such as inline deduplication, compression, compaction, and thin provisioning.
-* Eliminate silos by supporting both NAS and SAN workloads on one unified system
-
-Optimized for easy deployment and operations, FAS hybrid-flash systems provide a balance of performance and capacity required to support critical workloads such as AI and media streaming, along with a variety of deployment models.
-
-https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^].
+// === All-flash arrays enable you to
+//
+// * Go from initial power-on to serving data in less than 10 minutes with simple application provisioning.
+// * Reduce costs and minimize your storage footprint with proven efficiency technologies such /as inline deduplication, compression, compaction, and thin provisioning.
+// * Eliminate silos by supporting both NAS and SAN workloads on one unified system
+//
+// Optimized for easy deployment and operations, FAS hybrid-flash systems provide a balance of performance and capacity required to support critical workloads such as AI and media streaming, along with a variety of deployment models.
+//  
+// https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^].
 
 == MetroCluster
 NetApp MetroCluster software provides a robust infrastructure that combines array-based clustering with synchronous mirroring to deliver continuous availability and zero data loss to protect your entire system.
