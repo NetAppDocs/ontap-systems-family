@@ -1,11 +1,11 @@
 ---
 layout: product-family
 permalink: index.html
-lead: The NetApp ONTAP Systems product family offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability.
-summary: "The NetApp ONTAP Systems product family offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability."
+lead: The NetApp AFF and FAS storage systems offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability.
+summary: "The NetApp AFF and FAS storage systems offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability."
 ---
 
-= ONTAP Systems (AFF and FAS) documentation
+= AFF and FAS documentation
 :hardbreaks:
 :nofooter:
 :icons: font
