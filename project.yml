@@ -2,9 +2,9 @@
 settings:
   name: ONTAP Systems
   internal:
-    pdf_enabled: true
+    pdf_enabled: false
   prod:
-    pdf_enabled: true
+    pdf_enabled: false
 sidebar:
   entries:
     - title: AFF and FAS documentation
