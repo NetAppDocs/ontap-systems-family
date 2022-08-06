@@ -4,14 +4,14 @@ keywords: introduction, what is ONTAP systems, AFF, FAS, all-flash, ONTAP
 summary: "The NetApp ONTAP family of storage systems is designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access."
 ---
 
-= Intro to the ONTAP family of storage systems
+= Intro to the AFF and FAS family of storage systems
 :hardbreaks:
 :icons: font
 :imagesdir: ./media/
 
-The NetApp ONTAP family of storage systems is designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access.
+The NetApp AFF and FAS family of storage systems is designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access.
 
-ONTAP Systems are available in all-flash (AFF) and hybrid flash and HDD-only (FAS) configurations, giving you the option to choose the storage media mix that best meets your performance, capacity, and cost requirements.
+The AFF and FAS systems are available in all-flash (AFF) and hybrid flash and HDD-only (FAS) configurations, giving you the option to choose the storage media mix that best meets your performance, capacity, and cost requirements.
 
 You can cluster different combinations of FAS and AFF models so you can run mixed workloads on the same storage system and build out your environment by adding new generations of storage with the latest technologies.
 
