@@ -20,12 +20,12 @@ You can cluster different combinations of AFF and FAS models to run mixed worklo
 NVMe-based AFF systems are a robust scale-out platform built for virtualized environments and can be deployed as an independent system or a high-performance tier in a NetApp ONTAP configuration.
 
 // === All-flash FAS systems enable you to
-// 
+//
 // * Integrate different controllers, SSD sizes, and new technologies and private or public cloud into your infrastructure nondisruptively.
 // * Drive mission-critical SAN workloads with symmetric active-active host connectivity for continuous availability and instant failover.
 // * Consolidate workloads to deliver up to 14.4 million IOPS at 1ms latency in a cluster with a unified scale-out architecture.
 // * Manage scalable NAS containers of up to 20PB and 400 billion files with a single namespace.
-// 
+//
 Supporting a range of workloads, especially VDI and databases that require high performance, low latency and reliability, the all-flash FAS configurations are the ideal choice for business-critical applications.
 
 https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf[Read the AFF Datasheet^].
@@ -43,13 +43,13 @@ With its highly available hardware, FAS hybrid-flash systems cost-effectively me
 // * Eliminate silos by supporting both NAS and SAN workloads on one unified system
 //
 // Optimized for easy deployment and operations, FAS hybrid-flash systems provide a balance of performance and capacity required to support critical workloads such as AI and media streaming, along with a variety of deployment models.
-//  
+//
 // https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^].
 
 == MetroCluster
-AFF and FAS storage systems configured with ONTAP's MetroCluster functionality provides a solution that combines array-based clustering with synchronous
-replication to deliver continuous availability and zero data loss. The MetroCluster configuration immediately duplicates all mission-critical data on a
-transaction-by-transaction basis, providing uninterrupted access to applications and data. Unlike standard data replication solutions, MetroCluster works seamlessly with your host environment to provide continuous data availability while eliminating the need to create and maintain complicated failover scripts.
+AFF and FAS storage systems configured with ONTAP's MetroCluster functionality provides a solution that combines array-based clustering with synchronous replication to deliver continuous availability and zero data loss. The MetroCluster configuration immediately duplicates all mission-critical data on a transaction-by-transaction basis, providing uninterrupted access to applications and data.
+
+Unlike standard data replication solutions, MetroCluster works seamlessly with your host environment to provide continuous data availability while eliminating the need to create and maintain complicated failover scripts.
 
 https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf[Read more about MetroCluster^]
 
