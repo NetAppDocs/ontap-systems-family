@@ -4,7 +4,7 @@ keywords: introduction, what is ONTAP systems, AFF, FAS, all-flash, ONTAP
 summary: "The NetApp ONTAP family of storage systems is designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access."
 ---
 
-= Intro to the AFF and FAS family of storage systems
+= Introduction to the AFF and FAS family of storage systems
 :hardbreaks:
 :icons: font
 :imagesdir: ./media/
@@ -17,7 +17,7 @@ You can cluster different combinations of AFF and FAS models to run mixed worklo
 
 == All-Flash FAS (AFF) systems
 
-The NVMe-based AFF systems are a robust scale-out platform built for virtualized environments and can be deployed as an independent system or a high-performance tier in a NetApp ONTAP configuration.
+NVMe-based AFF systems are a robust scale-out platform built for virtualized environments and can be deployed as an independent system or a high-performance tier in a NetApp ONTAP configuration.
 
 // === All-flash FAS systems enable you to
 // 
@@ -32,7 +32,7 @@ https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf[Read the AFF Datash
 
 == FAS hybrid-flash systems
 
-The FAS hybrid-flash systems are a hardware platform created for shared, consolidated SAN and NAS environments that require rich data management and easy cloud connection.
+FAS hybrid-flash systems are a hardware platform created for shared, consolidated SAN and NAS environments that require rich data management and easy cloud connection.
 
 With its highly available hardware, FAS hybrid-flash systems cost-effectively meet workload demands by combining the ideal mix of flash and traditional spinning drives. It is ideal for back-up and retention, consolidation of general business applications, and distributed content.
 
@@ -54,7 +54,7 @@ transaction-by-transaction basis, providing uninterrupted access to applications
 https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf[Read more about MetroCluster^]
 
 == ONTAP Software
-ONTAP data management software is a clustered storage software product that powers the AFF and FAS systems. With a global namespace that supports up to 24 AFF and FAS nodes of all types, ONTAP software supports unified storage (block and file), enabling significant workload consolidation that you can manage using the ONTAP System Manager GUI.
+ONTAP data management software is the clustered storage software that powers the AFF and FAS systems. With a global namespace that supports up to 24 AFF and FAS nodes of all types, ONTAP software supports unified storage (block and file), enabling significant workload consolidation that you can manage using the ONTAP System Manager GUI.
 
 https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf[Read the ONTAP Datasheet^].
 
