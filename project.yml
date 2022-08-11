@@ -34,26 +34,26 @@ product-family:
     - title: "AFF and FAS install and maintain"
       icon: ./media/synergy.png
       url: https://docs.netapp.com/us-en/ontap-systems/index.html
-      summary: "Learn how to install and maintain your AFF, FAS, or All SAN Array systems."
-      tags: all, tag_storage_hardware, tag_storage_management
+      summary: "Install and maintain your AFF, FAS, or All SAN Array systems."
+      tags: all, tag_storage_hardware
 
     - title: "AFF and FAS upgrade"
       icon: ./media/upgrade.png
       url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
-      summary: "Learn how to upgrade your AFF and FAS storage systems."
-      tags: all, tag_storage_hardware, tag_storage_upgrade
+      summary: "Upgrade your AFF and FAS storage systems."
+      tags: all, tag_storage_upgrade
 
     - title: "Cluster and storage switches"
       icon: ./media/switch.png
       url: https://docs.netapp.com/us-en/ontap-systems-switches/index.html
-      summary: "Learn how to install, upgrade and maintain your cluster and storage switches."
+      summary: "Install, upgrade and maintain your cluster and storage switches."
       tags: all, tag_storage_hardware, tag_storage_upgrade
 
     - title: "ONTAP MetroCluster"
       icon: ./media/metrocluster.png
       url: https://docs.netapp.com/us-en/ontap-metrocluster/index.html
-      summary: "Learn how to install and upgrade or expand your MetroCluster configurations and perform disaster recovery."
-      tags: all, tag_storage_management, tag_storage_upgrade
+      summary: "Install and upgrade or expand your MetroCluster configurations and perform disaster recovery."
+      tags: all, tag_storage_upgrade
 
     - title: "ONTAP family"
       icon: ./media/family.png
