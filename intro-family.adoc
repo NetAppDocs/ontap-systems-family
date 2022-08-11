@@ -36,6 +36,8 @@ FAS hybrid-flash systems are a hardware platform created for shared, consolidate
 
 With its highly available hardware, FAS hybrid-flash systems cost-effectively meet workload demands by combining the ideal mix of flash and traditional spinning drives. It is ideal for back-up and retention, consolidation of general business applications, and distributed content.
 
+https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^]
+
 // === All-flash arrays enable you to
 //
 // * Go from initial power-on to serving data in less than 10 minutes with simple application provisioning.
