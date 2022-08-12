@@ -55,7 +55,7 @@ Unlike standard data replication solutions, MetroCluster works seamlessly with y
 
 https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf[Read more about MetroCluster^]
 
-== ONTAP Software
+== ONTAP software
 ONTAP data management software is the clustered storage software that powers the AFF and FAS systems. With a global namespace that supports up to 24 AFF and FAS nodes of all types, ONTAP software supports unified storage (block and file), enabling significant workload consolidation that you can manage using the ONTAP System Manager GUI.
 
 https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf[Read the ONTAP Datasheet^].
@@ -64,4 +64,4 @@ https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf[Read the ONTAP Data
 
 * https://docs.netapp.com/us-en/ontap-systems/index.html[AFF and FAS docs^]
 * https://docs.netapp.com/us-en/ontap-metrocluster/index.html[MetroCluster docs^]
-* https://docs.netapp.com/us-en/ontap/index.html[ONTAP software docs^]
+* https://docs.netapp.com/us-en/ontap/index.html[ONTAP docs^]
