@@ -21,8 +21,8 @@ product-family:
         tags: tag_storage_hardware
       - title: System upgrade
         tags: tag_storage_upgrade
-      - title: Storage management
-        tags: tag_storage_management
+  #    - title: Storage management
+  #      tags: tag_storage_management
 
   tiles:
     - title: "Learn about the AFF and FAS family"
@@ -55,8 +55,8 @@ product-family:
       summary: "Install and upgrade or expand your MetroCluster configurations and perform disaster recovery."
       tags: all, tag_storage_upgrade
 
-    - title: "ONTAP family"
-      icon: ./media/family.png
-      url: https://docs.netapp.com/us-en/ontap-family/index.html
-      summary: "Use the ONTAP family page to find information on how to set up ONTAP, provision storage for clients, and protect and manage your data with System Manager or the CLI."
-      tags: all, tag_storage_management
+  #  - title: "ONTAP family"
+  #    icon: ./media/family.png
+#      url: https://docs.netapp.com/us-en/ontap-family/index.html
+#      summary: "Use the ONTAP family page to find information on how to set up ONTAP, provision storage for clients, and protect and manage your data with System Manager or the CLI."
+#      tags: all, tag_storage_management
