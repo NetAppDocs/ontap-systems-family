@@ -64,4 +64,4 @@ https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf[Read the ONTAP Data
 
 * https://docs.netapp.com/us-en/ontap-systems/index.html[AFF and FAS docs^]
 * https://docs.netapp.com/us-en/ontap-metrocluster/index.html[MetroCluster docs^]
-* https://docs.netapp.com/us-en/ontap/index.html[ONTAP software docs^]
+* https://docs.netapp.com/us-en/ontap/index.html[ONTAP docs^]
