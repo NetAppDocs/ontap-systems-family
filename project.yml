@@ -1,6 +1,6 @@
 ---
 settings:
-  name: ONTAP Systems
+  name: AFF and FAS Family
   internal:
     pdf_enabled: false
   prod:
@@ -10,7 +10,7 @@ sidebar:
     - title: AFF and FAS documentation
       url: /index.html
 product-family:
-  search: "clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod"
+  search: "clouddocs-ontap-systems_main-prod,clouddocs-ontap-systems-upgrade_main-prod,clouddocs-ontap-systems-switches_main-prod,clouddocs-ontap-metrocluster_main-prod"
   sidebarlinks:
       - title: All
         tags: tag_storage_management,tag_storage_upgrade,tag_storage_hardware,tag_get_started
@@ -25,14 +25,14 @@ product-family:
         tags: tag_storage_management
 
   tiles:
-    - title: "Learn about AFF and FAS systems"
+    - title: "Learn about the AFF and FAS family"
       icon: ./media/family.png
       url: intro-family.html
       summary: "Learn about the AFF and FAS family of storage systems."
       tags: all, tag_get_started
 
     - title: "AFF and FAS install and maintain"
-      icon: ./media/synergy.png
+      icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/ontap-systems/index.html
       summary: "Install and maintain your AFF, FAS, or All SAN Array systems."
       tags: all, tag_storage_hardware
