@@ -1,0 +1,67 @@
+---
+permalink: intro-family.html
+keywords: introduction, what is ONTAP systems, AFF, FAS, all-flash, ONTAP
+summary: "The NetApp ONTAP family of storage systems is designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access."
+---
+
+= Learn about the AFF and FAS family of storage systems
+:hardbreaks:
+:icons: font
+:imagesdir: ./media/
+
+The NetApp AFF and FAS family of storage systems is designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access.
+
+The AFF and FAS systems are available in all-flash (AFF) and hybrid flash and HDD-only (FAS) configurations, giving you the option to choose the storage media mix that best meets your performance, capacity, and cost requirements.
+
+You can cluster different combinations of AFF and FAS models to run mixed workloads on the same storage system and build out your environment by adding new generations of storage with the latest technologies.
+
+== All-Flash FAS (AFF) systems
+
+NVMe-based AFF systems are a robust scale-out platform built for virtualized environments and can be deployed as an independent system or a high-performance tier in a NetApp ONTAP configuration.
+
+// === All-flash FAS systems enable you to
+//
+// * Integrate different controllers, SSD sizes, and new technologies and private or public cloud into your infrastructure nondisruptively.
+// * Drive mission-critical SAN workloads with symmetric active-active host connectivity for continuous availability and instant failover.
+// * Consolidate workloads to deliver up to 14.4 million IOPS at 1ms latency in a cluster with a unified scale-out architecture.
+// * Manage scalable NAS containers of up to 20PB and 400 billion files with a single namespace.
+//
+Supporting a range of workloads, especially VDI and databases that require high performance, low latency and reliability, the all-flash FAS configurations are the ideal choice for business-critical applications.
+
+https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf[Read the AFF Datasheet^].
+
+== FAS hybrid-flash systems
+
+FAS hybrid-flash systems are a hardware platform created for shared, consolidated SAN and NAS environments that require rich data management and easy cloud connection.
+
+With its highly available hardware, FAS hybrid-flash systems cost-effectively meet workload demands by combining the ideal mix of flash and traditional spinning drives. It is ideal for back-up and retention, consolidation of general business applications, and distributed content.
+
+https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^]
+
+// === All-flash arrays enable you to
+//
+// * Go from initial power-on to serving data in less than 10 minutes with simple application provisioning.
+// * Reduce costs and minimize your storage footprint with proven efficiency technologies such /as inline deduplication, compression, compaction, and thin provisioning.
+// * Eliminate silos by supporting both NAS and SAN workloads on one unified system
+//
+// Optimized for easy deployment and operations, FAS hybrid-flash systems provide a balance of performance and capacity required to support critical workloads such as AI and media streaming, along with a variety of deployment models.
+//
+// https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^].
+
+== MetroCluster
+AFF and FAS storage systems configured with ONTAP's MetroCluster functionality provides a solution that combines array-based clustering with synchronous replication to deliver continuous availability and zero data loss. The MetroCluster configuration immediately duplicates all mission-critical data on a transaction-by-transaction basis, providing uninterrupted access to applications and data.
+
+Unlike standard data replication solutions, MetroCluster works seamlessly with your host environment to provide continuous data availability while eliminating the need to create and maintain complicated failover scripts.
+
+https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf[Read more about MetroCluster^]
+
+== ONTAP software
+ONTAP data management software is the clustered storage software that powers the AFF and FAS systems. With a global namespace that supports up to 24 AFF and FAS nodes of all types, ONTAP software supports unified storage (block and file), enabling significant workload consolidation that you can manage using the ONTAP System Manager GUI.
+
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf[Read the ONTAP Datasheet^].
+
+== For more information
+
+* https://docs.netapp.com/us-en/ontap-systems/index.html[AFF and FAS docs^]
+* https://docs.netapp.com/us-en/ontap-metrocluster/index.html[MetroCluster docs^]
+* https://docs.netapp.com/us-en/ontap/index.html[ONTAP docs^]
