@@ -26,7 +26,7 @@ product-family:
   #      tags: tag_storage_management
 
   tiles:
-    - title: "Learn about the AFF and FAS family"
+    - title: "Learn about AFF and FAS"
       icon: ./media/family.png
       url: intro-family.html
       summary: "Learn about the AFF and FAS family of storage systems."
