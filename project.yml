@@ -10,7 +10,7 @@ sidebar:
     - title: AFF and FAS documentation
       url: /index.html
 product-family:
-  search: "clouddocs-ontap-systems_main-prod,clouddocs-ontap-systems-upgrade_main-prod,clouddocs-ontap-systems-switches_main-prod,clouddocs-ontap-metrocluster_main-prod"
+  search: "clouddocs-ontap-systems-internal_main-prod,clouddocs-ontap-systems-upgrade-internal_main-prod,clouddocs-ontap-systems-switches-internal_main-prod,clouddocs-ontap-metrocluster-internal_main-prod"
   sidebarlinks:
       - title: All
         tags: tag_storage_management,tag_storage_upgrade,tag_storage_hardware,tag_get_started
