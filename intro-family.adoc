@@ -28,7 +28,7 @@ NVMe-based AFF systems are a robust scale-out platform built for virtualized env
 //
 Supporting a range of workloads, especially VDI and databases that require high performance, low latency and reliability, the all-flash FAS configurations are the ideal choice for business-critical applications.
 
-https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf[Read the AFF Datasheet^].
+https://www.netapp.com/pdf.html?item=/media/7828-ds-3582.pdf[Read the AFF A-Series Datasheet^] and https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf[Read the AFF C-Series Datasheet^].
 
 == FAS hybrid-flash systems
 
