@@ -1,6 +1,6 @@
 ---
 permalink: intro-family.html
-keywords: introduction, what is ONTAP systems, AFF, FAS, all-flash, ONTAP
+keywords: introduction, what is ONTAP systems, AFF, FAS, ASA, all-flash, ONTAP
 summary: "NetApp's ONTAP family of storage systems is designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access."
 ---
 
