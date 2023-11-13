@@ -9,7 +9,7 @@ settings:
     harmony_enabled: true
 sidebar:
   entries:
-    - title: AFF and FAS documentation
+    - title: ONTAP hardware systems documentation
       url: /index.html
 product-family:
   sidebarlinks:
@@ -26,22 +26,22 @@ product-family:
   #      tags: tag_storage_management
 
   tiles:
-    - title: "Learn about AFF and FAS"
+    - title: "Learn about ONTAP hardware systems"
       icon: ./media/family.png
       url: intro-family.html
-      summary: "Learn about the AFF and FAS family of storage systems."
+      summary: "Learn about the ONTAP hardware systems."
       tags: all, tag_get_started
 
-    - title: "AFF and FAS install and maintain"
+    - title: "Install and maintain"
       icon: ./media/icon-onprem.png
       url: https://docs.netapp.com/us-en/ontap-systems/index.html
-      summary: "Install and maintain your AFF, FAS, or All SAN Array systems."
+      summary: "Install and maintain your ONTAP hardware systems."
       tags: all, tag_storage_hardware
 
-    - title: "AFF and FAS upgrade"
+    - title: "Upgrade"
       icon: ./media/upgrade.png
       url: https://docs.netapp.com/us-en/ontap-systems-upgrade/index.html
-      summary: "Upgrade your AFF and FAS storage systems."
+      summary: "Upgrade your ONTAP hardware systems."
       tags: all, tag_storage_upgrade
 
     - title: "Cluster and storage switches"
