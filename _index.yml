@@ -19,7 +19,7 @@ product-family:
       icon: ./media/family.png
       url: intro-family.html
       summary: "Learn about the ONTAP hardware systems."
-      tags: tag_all, tag_get_started
+      tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
     - title: "Install and maintain"
       icon: ./media/icon-onprem.png
       url: ../ontap-systems/index.html
