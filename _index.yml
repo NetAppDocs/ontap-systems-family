@@ -1,0 +1,48 @@
+product-family:
+  title: ONTAP hardware systems documentation
+  lead: "NetApp's ONTAP AFF, FAS, and ASA hardware storage systems offer storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability."
+  summary: "NetApp's ONTAP AFF, FAS, and ASA hardware storage systems offer storage and application data management services for high-bandwidth applications that need simple, easy to manage, and all-flash storage with enterprise-grade reliability."
+  sidebarlinks:
+    - title: All
+      tags: tag_all
+      class: active
+    - title: Get started
+      tags: tag_get_started
+    - title: System hardware
+      tags: tag_storage_hardware
+    - title: System upgrade
+      tags: tag_storage_upgrade
+  # - title: Storage management
+  #   tags: tag_storage_management
+  tiles:
+    - title: "Learn about ONTAP hardware systems"
+      icon: ./media/family.png
+      url: intro-family.html
+      summary: "Learn about the ONTAP hardware systems."
+      tags: tag_all, tag_get_started
+    - title: "Install and maintain"
+      icon: ./media/icon-onprem.png
+      url: ../ontap-systems/index.html
+      summary: "Install and maintain your ONTAP hardware systems."
+      tags: tag_all, tag_storage_hardware
+    - title: "Upgrade"
+      icon: ./media/upgrade.png
+      url: ../ontap-systems-upgrade/index.html
+      summary: "Upgrade your ONTAP hardware systems."
+      tags: tag_all, tag_storage_upgrade
+    - title: "Cluster and storage switches"
+      icon: ./media/switch.png
+      url: ../ontap-systems-switches/index.html
+      summary: "Install, upgrade and maintain your cluster and storage switches."
+      tags: tag_all, tag_storage_hardware, tag_storage_upgrade
+    - title: "ONTAP MetroCluster"
+      icon: ./media/metrocluster.png
+      url: ../ontap-metrocluster/index.html
+      summary: "Install and upgrade or expand your MetroCluster configurations and perform disaster recovery."
+      tags: tag_all, tag_storage_upgrade
+  # - title: "ONTAP family"
+  #   icon: ./media/family.png
+  #   url: ../ontap-family/index.html
+  #   summary: "Use the ONTAP family page to find information on how to set up ONTAP, provision storage for clients, and protect and manage your data with System Manager or the CLI."
+  #   tags: tag_all, tag_storage_management  
+  
