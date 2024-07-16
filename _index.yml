@@ -30,6 +30,11 @@ product-family:
       url: ../ontap-systems-upgrade/index.html
       summary: "Upgrade your ONTAP hardware systems."
       tags: tag_all, tag_storage_upgrade
+    - title: "Configure and manage ONTAP 9 on ASA r2 storage"
+      icon: ./media/upgrade.png
+      url: ../ontap-systems-upgrade/index.html
+      summary: "Use ONTAP 9 software managed by ASA r2 storage systems."
+      tags: tag_all, tag_storage_hardware
     - title: "Cluster and storage switches"
       icon: ./media/switch.png
       url: ../ontap-systems-switches/index.html
