@@ -20,21 +20,31 @@ product-family:
       url: intro-family.html
       summary: "Learn about the ONTAP hardware systems."
       tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
-    - title: "Install and maintain"
+    - title: "AFF systems"
       icon: ./media/icon-onprem.png
       url: ../ontap-systems/index.html
-      summary: "Install and maintain your ONTAP hardware systems."
+      summary: "Install and maintain your AFF systems."
       tags: tag_all, tag_storage_hardware
-    - title: "Upgrade"
+    - title: "ASA systems"
+      icon: ./media/icon-onprem.png
+      url: ../ontap-systems/index.html
+      summary: "Install and maintain your ASA systems."
+      tags: tag_all, tag_storage_hardware
+    - title: "FAS systems"
+      icon: ./media/icon-onprem.png
+      url: ../ontap-systems/index.html
+      summary: "Install and maintain your FAS systems."
+      tags: tag_all, tag_storage_hardware
+    - title: "ASA r2 systems on ONTAP 9"
+      icon: ./media/upgrade.png
+      url: https://github.com/NetAppDocs/asa-r2-internal
+      summary: "Install and use ASA r2 systems on ONTAP 9."
+      tags: tag_all, tag_storage_hardware
+    - title: "Upgrade ONTAP hardware systems"
       icon: ./media/upgrade.png
       url: ../ontap-systems-upgrade/index.html
       summary: "Upgrade your ONTAP hardware systems."
       tags: tag_all, tag_storage_upgrade
-    - title: "Configure and manage ONTAP 9 on ASA r2 storage"
-      icon: ./media/upgrade.png
-      url: https://github.com/NetAppDocs/asa-r2-internal
-      summary: "Use ONTAP 9 software managed by ASA r2 storage systems."
-      tags: tag_all, tag_storage_hardware
     - title: "Cluster and storage switches"
       icon: ./media/switch.png
       url: ../ontap-systems-switches/index.html
