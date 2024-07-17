@@ -20,10 +20,14 @@ product-family:
       url: intro-family.html
       summary: "Learn about the ONTAP hardware systems."
       tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
-    - title: "All Flash systems (AFF and ASA)"
+    - title: "A-series systems"
       icon: ./media/icon-onprem.png
       url: ../ontap-systems/index.html
-      summary: "Install and maintain your AFF and ASA systems."
+      summary: "Install and maintain your A-series systems."
+    - title: "C-series systems"
+      icon: ./media/icon-onprem.png
+      url: ../ontap-systems/index.html
+      summary: "Install and maintain your C-series systems."
       tags: tag_all, tag_storage_hardware
     - title: "FAS systems"
       icon: ./media/icon-onprem.png
