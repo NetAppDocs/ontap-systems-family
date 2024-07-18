@@ -22,15 +22,15 @@ product-family:
       tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
     - title: "AFF systems"
       icon: ./media/icon-onprem.png
-      url: ../ontap-systems/index.html
+      url: ../aff-landing/index.html
       summary: "Install and maintain your AFF systems."
     - title: "ASA systems"
       icon: ./media/icon-onprem.png
-      url: ../ontap-systems/index.html
+      url: ../allsan-landing/index.html
       summary: "Install and maintain your ASA systems."
     - title: "FAS systems"
       icon: ./media/icon-onprem.png
-      url: ../ontap-systems/index.html
+      url: ../fas/index.html
       summary: "Install and maintain your FAS systems."
     - title: "ASA r2 systems on ONTAP 9"
       icon: ./media/upgrade.png
