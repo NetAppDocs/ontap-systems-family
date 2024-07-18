@@ -20,16 +20,24 @@ product-family:
       url: intro-family.html
       summary: "Learn about the ONTAP hardware systems."
       tags: tag_all, tag_get_started, tag_storage_hardware, tag_storage_upgrade
-    - title: "Install and maintain systems"
+    - title: "AFF systems"
       icon: ./media/icon-onprem.png
       url: ../ontap-systems/index.html
-      summary: "Install and maintain your ONTAP hardware systems."
-    - title: "Install and use ASA r2 systems on ONTAP 9"
+      summary: "Install and maintain your AFF systems."
+    - title: "ASA systems"
+      icon: ./media/icon-onprem.png
+      url: ../ontap-systems/index.html
+      summary: "Install and maintain your ASA systems."
+    - title: "FAS systems"
+      icon: ./media/icon-onprem.png
+      url: ../ontap-systems/index.html
+      summary: "Install and maintain your FAS systems."
+    - title: "ASA r2 systems on ONTAP 9"
       icon: ./media/upgrade.png
       url: https://github.com/NetAppDocs/asa-r2-internal
       summary: "Install and use your ASA r2 systems on ONTAP 9."
       tags: tag_all, tag_storage_hardware
-    - title: "Upgrade systems"
+    - title: "Upgrade ONTAP hardware systems"
       icon: ./media/upgrade.png
       url: ../ontap-systems-upgrade/index.html
       summary: "Upgrade your ONTAP hardware systems."
