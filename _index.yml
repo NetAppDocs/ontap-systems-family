@@ -34,7 +34,7 @@ product-family:
       summary: "Install and maintain your FAS systems."
     - title: "ASA r2 systems on ONTAP 9"
       icon: ./media/upgrade.png
-      url: https://github.com/NetAppDocs/asa-r2-internal
+      url: ../asa-r2/index.html
       summary: "Install and use your ASA r2 systems on ONTAP 9."
       tags: tag_all, tag_storage_hardware
     - title: "Upgrade ONTAP hardware systems"
