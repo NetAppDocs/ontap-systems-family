@@ -45,15 +45,6 @@ With its highly available hardware, FAS hybrid-flash systems cost-effectively me
 
 https://www.netapp.com/pdf.html?item=/media/7819-ds-4020.pdf[Read the FAS Datasheet^]
 
-// === All-flash arrays enable you to
-//
-// * Go from initial power-on to serving data in less than 10 minutes with simple application provisioning.
-// * Reduce costs and minimize your storage footprint with proven efficiency technologies such /as inline deduplication, compression, compaction, and thin provisioning.
-// * Eliminate silos by supporting both NAS and SAN workloads on one unified system
-//
-// Optimized for easy deployment and operations, FAS hybrid-flash systems provide a balance of performance and capacity required to support critical workloads such as AI and media streaming, along with a variety of deployment models.
-//
-// https://www.netapp.com/pdf.html?item=/media/19763-ds-3829.pdf[Read the FAS Datasheet^].
 
 == MetroCluster
 ONTAP's hardware storage systems configured with ONTAP's MetroCluster functionality provides a solution that combines array-based clustering with synchronous replication to deliver continuous availability and zero data loss. The MetroCluster configuration immediately duplicates all mission-critical data on a transaction-by-transaction basis, providing uninterrupted access to applications and data.
