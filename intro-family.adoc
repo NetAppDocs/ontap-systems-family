@@ -3,7 +3,6 @@ permalink: intro-family.html
 keywords: introduction, what is ONTAP systems, AFF, FAS, ASA, all-flash, ONTAP
 summary: "NetApp's ONTAP family of storage systems is designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access."
 ---
-
 = Learn about ONTAP hardware systems
 :hardbreaks:
 :icons: font
@@ -35,8 +34,8 @@ The new NetApp ASA r2 systems (ASA A1K, ASA A70, and ASA A90) deliver a unified 
 On an ASA r2 system, ONTAP software and System Manager are streamlined to provide support for essential SAN functionality while removing visibility of features and functions not supported in SAN environments. 
 
 * https://www.netapp.com/data-storage/all-flash-san-storage-array/[Read the ASA datasheet^] 
-* Learn more about link:../learn-more/hardware-comparison.html[the new ASA r2 systems in comparison to the ASA systems]
-* See the full configuration support and limitations for ASA and ASA r2 systems in link:hwu.netapp.com[NetApp Hardware Universe^]
+* Learn more about the link:https://docs.netapp.com/us-en/asa-r2/learn-more/hardware-comparison.html[new ASA r2 systems in comparison to the ASA systems]
+* See the full configuration support and limitations for ASA and ASA r2 systems in https://hwu.netapp.com/[NetApp Hardware Universe^]
 
 == FAS hybrid-flash systems
 
