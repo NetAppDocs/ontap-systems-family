@@ -33,7 +33,7 @@ product-family:
       url: ../fas/index.html
       summary: "Install and maintain your FAS systems."
     - title: "ASA r2 systems"
-      icon: ./media/upgrade.png
+      icon: ./media/icon-onprem.png
       url: ../asa-r2/index.html
       summary: "Install and use your ASA r2 systems."
       tags: tag_all, tag_storage_hardware
