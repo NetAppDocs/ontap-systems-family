@@ -32,10 +32,10 @@ product-family:
       icon: ./media/icon-onprem.png
       url: ../fas/index.html
       summary: "Install and maintain your FAS systems."
-    - title: "ASA r2 systems on ONTAP 9"
+    - title: "ASA r2 systems"
       icon: ./media/upgrade.png
       url: ../asa-r2/index.html
-      summary: "Install and use your ASA r2 systems on ONTAP 9."
+      summary: "Install and use your ASA r2 systems."
       tags: tag_all, tag_storage_hardware
     - title: "Upgrade ONTAP hardware systems"
       icon: ./media/upgrade.png
