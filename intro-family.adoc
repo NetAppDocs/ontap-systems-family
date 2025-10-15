@@ -11,7 +11,7 @@ summary: "NetApp's ONTAP family of storage systems is designed for enterprise ap
 [.lead]
 NetApp's ONTAP hardware systems are designed for enterprise applications that need easy to manage, fast and secure storage with enterprise-grade reliability and continuous data access.
 
-NetApp's ONTAP hardware systems are available in all-flash (AFF) and hybrid flash and HDD-only (FAS) configurations, giving you the option to choose the storage media mix that best meets your performance, capacity, and cost requirements.
+NetApp's ONTAP hardware systems are available in all-flash and hybrid flash and HDD-only configurations, giving you the option to choose the storage media mix that best meets your performance, capacity, and cost requirements.
 
 You can cluster different combinations of models to run mixed workloads on the same storage system and build out your environment by adding new generations of storage with the latest technologies.
 
