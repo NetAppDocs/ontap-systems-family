@@ -28,9 +28,9 @@ Supporting a range of workloads, especially VDI and databases that require high 
 NetApp AFX is an enterprise-grade disaggregated all-flash storage system that delivers all the performance benefits of parallel file systems and niche AI storage solutions, but on an enterprise-grade platform that is simple, secure, and fully integrated. 
 
 * https://www.netapp.com/pdf.html?item=/media/142853-ds-3466-netapp-afx-datasheet.pdf[Read the AFX datasheet^]
+* Learn more about link:https://docs.netapp.com/us-en/ontap-afx/get-started/ontap-afx-storage.html[AFX storage^]
 
 == All-Flash SAN Array (ASA) systems
-
 NetApp All-Flash SAN Array (ASA) delivers a simplified and dedicated SAN experience that provides continuous data availability for enterprise mission critical databases and other SAN workloads via FCP or iSCSI protocol.
 
 .ASA r2 systems
