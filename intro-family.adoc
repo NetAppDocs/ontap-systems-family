@@ -22,7 +22,7 @@ NVMe-based AFF systems are a robust scale-out platform built for virtualized env
 Supporting a range of workloads, especially VDI and databases that require high performance, low latency and reliability, the all-flash FAS configurations are the ideal choice for business-critical applications.
 
 * https://www.netapp.com/pdf.html?item=/media/7828-ds-3582-aff-a-series-ai-era.pdf[Read the AFF A-Series datasheet^]
-* https://www.netapp.com/media/81583-da-4240-aff-c-series.pdf[Read the AFF C-Series datasheet^]
+* https://www.netapp.com/pdf.html?item=/media/81583-ds-4240-aff-c-series.pdf[Read the AFF C-Series datasheet^]
 
 == AFX 
 NetApp AFX is an enterprise-grade disaggregated all-flash storage system that delivers all the performance benefits of parallel file systems and niche AI storage solutions, but on an enterprise-grade platform that is simple, secure, and fully integrated. 
@@ -61,7 +61,7 @@ https://www.netapp.com/pdf.html?item=/media/13480-tr4705.pdf[Learn more about Me
 == ONTAP software
 ONTAP data management software is the clustered storage software that powers the ONTAP hardware systems. With a global namespace that supports up to 24 hardware nodes of all types, ONTAP software supports unified storage (block and file), enabling significant workload consolidation that you can manage using the ONTAP System Manager GUI.
 
-https://www.netapp.com/pdf.html?item=/media/7413-ds-3231.pdf[Read the ONTAP software datasheet^]
+https://www.netapp.com/pdf.html?item=/media/7413-ds-3231-ontap-unified-data-storage-management.pdf[Read the ONTAP software datasheet^]
 
 .For more information
 
